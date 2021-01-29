@@ -1,8 +1,8 @@
-#ISIS1225 - Estructura de un proyecto
+# ISIS1225 - Estructura de un proyecto
 
-#Integrantes
-*Tomas Bedoya Calixto
-*Andres Felipe Gomez García 
+# Integrantes
+* Tomas Bedoya Calixto
+* Andres Felipe Gomez García 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
