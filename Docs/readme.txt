@@ -1,1 +1,3 @@
-En este directorio van los documentos explicativos del proyecto
+#Integrantes
+*Tomas Bedoya Calixto
+*Andres Felipe Gomez García 
