@@ -42,7 +42,6 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    print("3- Imprimir Saludo")
     # TO-DO: Modificaciones para completar el laboratorio 1.
     print("0- Salir")
 
@@ -59,6 +58,12 @@ def loadTags():
     Carga los Tags
     """
     return controller.loadTags('GoodReads/tags.csv')
+
+def loadSaludo():
+    """
+    Carga el Saludo
+    """
+
 
 
 """
