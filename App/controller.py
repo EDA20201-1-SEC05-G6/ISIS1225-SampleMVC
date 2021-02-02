@@ -54,7 +54,7 @@ def loadTags(filename):
 
 def loadBookTags(catalog):
     """
-    Carga los book tags
+    Carga los booktags del archivo y los agrega a una lista
     """
     book_tags_file = cf.data_dir + catalog
     return model.addBookTags(book_tags_file)
