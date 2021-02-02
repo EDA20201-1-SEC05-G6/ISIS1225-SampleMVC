@@ -2,7 +2,9 @@
 
 # Integrantes
 * Tomas Bedoya Calixto
-* Andres Felipe Gomez García 
+* Andres Felipe Gomez García
+
+--------------------------------
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
