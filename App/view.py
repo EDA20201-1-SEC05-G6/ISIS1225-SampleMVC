@@ -59,11 +59,6 @@ def loadTags():
     """
     return controller.loadTags('GoodReads/tags.csv')
 
-def loadSaludo():
-    """
-    Carga el Saludo
-    """
-
 
 
 """

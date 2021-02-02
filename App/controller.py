@@ -54,6 +54,6 @@ def loadTags(filename):
 
 def loadBooksTags(catalog):
     """
-    TODO
+    Carga los booktags del archivo y los agrega a una lista
     """
     pass
